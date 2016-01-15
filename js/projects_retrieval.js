@@ -9,8 +9,8 @@ $(function(){
     projects_content = new Array();
 
     /* PERSONALIZE THIS CONTENT FOR YOUR FORKED COPY */
-    repository_user = "OpenInnovationNetwork"; //eg. in github.com/OpenInnovationNetwork/Projects/, it is "OpenInnovationNetwork"
-    repository_name = "Projects"; //eg. in github.com/OpenInnovationNetwork/Projects/, it is "Projects"
+    repository_user = "gscardine"; //eg. in github.com/OpenInnovationNetwork/Projects/, it is "OpenInnovationNetwork"
+    repository_name = "dynamicprojectgallery"; //eg. in github.com/OpenInnovationNetwork/Projects/, it is "Projects"
 
 
     // FIND ALL THE FILES INSIDE THE FOLDER
